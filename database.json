@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/85839f48a8f2215d3a3755f6e8682b5e.git": [
+      "GIST: BNO055 Visualizer",
+      "1600106703009"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://gist.github.com/85839f48a8f2215d3a3755f6e8682b5e.git:BNO055Visualizer.groovy": [
@@ -8,10 +13,14 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.28.1",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "0.28.1",
+    "skinBranch": "1.12.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.12.0"
   }
 }
